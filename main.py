@@ -26,4 +26,4 @@ print(5 ** 5)  # 5 to the 5th power (5 x 5 x 5 x 5 x 5 = 3125)
 
 # Modulo (the remainder of a sum)
 
-print(10 % 3) # 3 goes into 10 3 times, so the remainer is 1
+print(10 % 3) # 3 goes into 10 3 times, so the remainder is 1
