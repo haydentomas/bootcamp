@@ -24,6 +24,12 @@ print(2 ** 3)  # 2 to the 3rd power (2 x 2 x 2 = 8)
 print(2 ** 4)  # 2 to the 4th power (2 x 2 x 2 x 2 = 16)
 print(5 ** 5)  # 5 to the 5th power (5 x 5 x 5 x 5 x 5 = 3125)
 
-# Modulo (the remainder of a sum)
+# Modulo (the remainder of a sum, usually used to work out if a number is even or odd)
 
-print(10 % 3) # 3 goes into 10 3 times, so the remainder is 1
+print(10 % 3)  # 3 goes into 10 3 times, so the remainder is 1
+
+# Integer division //
+
+print(10/3)  # returns a float
+
+print(10//3)  # returns the same math as an int
